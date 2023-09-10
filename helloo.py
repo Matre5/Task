@@ -17,7 +17,7 @@ def get_info():
     current_day = datetime.datetime.now().strftime('%A')
 
     # Getting the UTC time
-    utc_time = datetime.datetime.now().strftime("%Y-%m-&dT%H:%M:%S")
+    utc_time = datetime.datetime.now().strftime("%Y-%m-&d %H:%M:%S")
 
     git_file = "https://isfdjiojif.com"
 
