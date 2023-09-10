@@ -19,9 +19,9 @@ def get_info():
     # Getting the UTC time
     utc_time = datetime.datetime.now().strftime("%Y-%m-&d %H:%M:%S")
 
-    git_file = "https://isfdjiojif.com"
+    git_file = "https://github.com/Matre5/Task/helloo.py"
 
-    git_repo = "https://isfdjiojif.com"
+    git_repo = "https://github.com/Matre5/Task"
 
     status_code = 200
 
